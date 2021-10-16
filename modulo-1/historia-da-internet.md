@@ -10,10 +10,10 @@
 * [ ] Durante a Guerra do Golfo.
 
 `2. A agência militar americana DARPA foi a responsável pelo início dos estudos que deram origem á Internet. Logo no início, a rede teve um nome. Você sabe qual foi?`
-* [] DARPANET.
+* [ ] DARPANET.
 * [x] ARPANET.
-* [] MILNET.
-* [] NSFNET.
+* [ ] MILNET.
+* [ ] NSFNET.
 
 `3. A primeira transmissão registrada na rede foi no ano de ____. A primeira palavra enviada de um computador para outro foi ______.`
 * [ ] 1949 / HELLO.
