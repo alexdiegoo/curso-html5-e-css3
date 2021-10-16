@@ -5,4 +5,4 @@ O objetivo deste repositorio é documentar toda minha jornada de aprendizagem no
 
 ## Conteudos estudados do modulo 1:
 
-* [Historia da internet](github/alexdiegoo/curso-html5-e-css3/modulo-1/historia-da-internet.md)
+* [Historia da internet](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-1/historia-da-internet.md)
