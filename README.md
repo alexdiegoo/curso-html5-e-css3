@@ -10,3 +10,4 @@ O objetivo deste repositorio é documentar toda minha jornada de aprendizagem no
 * [Como funciona a HTML e as CSS](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-1/como-funciona-html-css.md)
 * [Primeiros passos com HTML](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-1/primeiros-passos-com-html5.md)
 * [Caracteres, parágrafos e quebras de linha](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-1/caracteres-paragrafos-quebras-de-linha.md)
+* [Imagens e favicons](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-1/imagens-e-favicons.md)
