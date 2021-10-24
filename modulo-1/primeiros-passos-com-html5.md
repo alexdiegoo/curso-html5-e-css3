@@ -1,4 +1,4 @@
-# Historia da internet.
+# Primeiros passos com HTML5.
 
 ## Exercicio resolvido:
 `1. Qual dos programas a seguir é o único que não pode ser utilizado para escrever códigos em rexto sem formatação para HTML + CSS + JS?`
