@@ -17,3 +17,6 @@ O objetivo deste repositorio é documentar toda minha jornada de aprendizagem no
 * [Ligações em toda parte](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-1/ligacoes-em-toda-parte.md)
 * [Imagens dinâmicas, audios e videos](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-1/imagens-audio-video.md)
 * [Trabalhando com estilos](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-1/introducao-as-css.md)
+
+## Conteudos estudados do modulo 2:
+* [O poder das cores](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-2/o-poder-das-cores.md)
