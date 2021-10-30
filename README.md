@@ -20,3 +20,5 @@ O objetivo deste repositorio é documentar toda minha jornada de aprendizagem no
 
 ## Conteudos estudados do modulo 2:
 * [O poder das cores](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-2/o-poder-das-cores.md)
+* [Fontes](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-2/fontes.md)
+* [Seletores Personalizados](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-2/seletores-personalizados.md)
