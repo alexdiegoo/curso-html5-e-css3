@@ -1,0 +1,100 @@
+@font-face {
+  font-family: idroid;
+  src: url(fontes/idroid.otf);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color:#4BF299;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+
+header {
+  width: 100%;
+  height: 300px;
+  background: linear-gradient(to top, #237047, #02BD59);
+  padding: 10px;
+}
+
+header h1 {
+  font-family: idroid;
+  text-align: center;
+  margin-top: 20px;
+}
+
+header p {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 20px;
+}
+
+nav {
+  margin-top: 160px;
+}
+
+nav a {
+  color: #fff;
+  font-size: 16px;
+  text-decoration-line: none;
+  font-weight: bold;
+  margin-right: 12px;
+}
+
+main {
+  background-color: #fff;
+  width: 70%;
+  margin: auto;
+  padding: 10px;
+  color: #000;
+}
+
+main h1, h2 {
+  color: #237047;
+  font-family: idroid;
+  margin-bottom: 10px;
+}
+
+main p {
+  text-indent: 20px;
+  margin-bottom: 10px;
+}
+
+main h2 {
+  font-size: 20px;
+  margin-top: 10px;
+  background: linear-gradient(90deg, #68d39a, #fff);
+}
+
+#destaque {
+  color: #237047;
+}
+
+.aprender {
+  width: 90%;
+  margin: 15px auto;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: #68d39a79;
+}
+
+.aprender > h1 {
+  color: #fff;
+  padding: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  background-color: #02BD59 ;
+}
+
+footer {
+  background-color: #237047;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}
