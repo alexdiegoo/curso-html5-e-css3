@@ -49,7 +49,8 @@ nav a {
 
 main {
   background-color: #fff;
-  width: 70%;
+  min-width: 300px;
+  max-width: 1000px;
   margin: auto;
   padding: 10px;
   color: #000;
@@ -70,6 +71,16 @@ main h2 {
   font-size: 20px;
   margin-top: 10px;
   background: linear-gradient(90deg, #68d39a, #fff);
+}
+
+img {
+  width: 100%;
+}
+
+.pequena {
+  max-width: 350px;
+  margin: auto;
+  display: block;
 }
 
 #destaque {
