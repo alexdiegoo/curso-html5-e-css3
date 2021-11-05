@@ -23,4 +23,4 @@ O objetivo deste repositorio é documentar toda minha jornada de aprendizagem no
 * [Fontes](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-2/fontes.md)
 * [Seletores Personalizados](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-2/seletores-personalizados.md)
 * [Modelo de caixas](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-2/modelo-de-caixas.md)
-* [Primeiro mini-projeto](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-2/mini-projeto)
+* [Primeiro mini-projeto](https://github.com/alexdiegoo/curso-html5-e-css3/blob/main/modulo-2/mini-projeto.md)
